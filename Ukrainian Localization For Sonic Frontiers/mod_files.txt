@@ -1,4 +1,3 @@
-add mod.ini
 add raw/text/text_caption_ru.pac
 add raw/text/text_common_en.pac
 add raw/text/text_common_ru.pac
@@ -7,3 +6,4 @@ add raw/text/text_minigame_ru.pac
 add raw/text/text_objective_ru.pac
 add raw/text/text_skill_ru.pac
 add text_RichPresence_ru.pac
+add mod.ini
