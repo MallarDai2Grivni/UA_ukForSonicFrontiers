@@ -1,0 +1,38 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Налаштування моду",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Локалізований логотип",
+		  "Description": [
+			"Ввімкнути/Вимкнути локалізований логотип"
+		  ],
+          "Type": "BaseEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "withUkrLogo"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "BaseEnum": [
+      {
+        "DisplayName": "Ввімкнути локалізований логотип",
+        "Value": "withUkrLogo"
+      },
+      {
+        "DisplayName": "Ввімкнути локалізований логотип (Альтернативний)",
+        "Value": "withUkrLogoAlt"
+      },
+      {
+        "DisplayName": "Вимкнути локалізований логотип",
+        "Value": "withoutUkrLogo"
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
