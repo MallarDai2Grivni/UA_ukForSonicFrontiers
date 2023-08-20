@@ -31,5 +31,8 @@ add /withUkrLogoAlt/raw/text/text_skill_pl.pac
 add /withUkrLogoAlt/raw/ui/ui_gamemodetitle_en.pac
 add /withUkrLogoAlt/raw/ui/ui_gamemodetitle_ru.pac
 add /withUkrLogoAlt/raw/ui/ui_gamemodetitle_pl.pac
+add /withouthUkrLogo/raw/scalablefont/scalablefont.pac
+add /withUkrLogoAlt/raw/scalablefont/scalablefont.pac
+add /withUkrLogo/raw/scalablefont/scalablefont.pac
 add config.json
 add mod.ini
